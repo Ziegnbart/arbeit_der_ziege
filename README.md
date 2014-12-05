@@ -1,4 +1,9 @@
-arbeit_der_ziege
-================
+#arbeit_der_ziege
 
-A new leaf
+
+##Business Intelligence has consumed the recent past
+* Cognos
+* Tableau
+
+###It's time to add to the toolbox
+
